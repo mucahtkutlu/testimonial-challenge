@@ -85,7 +85,7 @@ body {
     z-index: -1;
 }
 
-@media (min-width: 375px) {
+@media (min-width: 576px) {
     #testimonial-contr, 
     #testimonial-sub-contr,
     #testimonial-sub-sub-1,
